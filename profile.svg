@@ -147,8 +147,8 @@ text{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberatio
 <text x="410" y="246" font-size="14"><tspan class="m">Host </tspan><tspan class="d">............ </tspan><tspan class="t">Technical University of Moldova</tspan></text>
 <text x="410" y="267" font-size="14"><tspan class="m">IDE </tspan><tspan class="d">............. </tspan><tspan class="t">VS Code</tspan></text>
 <text x="410" y="298" font-size="14"><tspan class="m">Languages </tspan><tspan class="d">....... </tspan><tspan class="t">Python, JavaScript, TypeScript, Java, C#,</tspan></text>
-<text x="410" y="319" font-size="14"><tspan class="m">                  </tspan><tspan class="t">SQL, HTML, CSS</tspan></text>
-<text x="410" y="350" font-size="14"><tspan class="m">Stack.Backend </tspan><tspan class="d">... </tspan><tspan class="t">FastAPI, SQLAlchemy, Node.js, PostgreSQL</tspan></text>
+<text x="410" y="319" font-size="14"><tspan class="m">                  </tspan><tspan class="t">SQL, HTML, CSS, Go</tspan></text>
+<text x="410" y="350" font-size="14"><tspan class="m">Stack.Backend </tspan><tspan class="d">... </tspan><tspan class="t">FastAPI, SQLAlchemy, Node.js, PostgreSQL, gRPC</tspan></text>
 <text x="410" y="371" font-size="14"><tspan class="m">Stack.Frontend </tspan><tspan class="d">.. </tspan><tspan class="t">React, Next.js, Tailwind CSS, Supabase</tspan></text>
 <text x="410" y="392" font-size="14"><tspan class="m">Stack.DevOps </tspan><tspan class="d">.... </tspan><tspan class="t">Docker, GitHub Actions</tspan></text>
 <text x="410" y="440" font-size="13" font-weight="700"><tspan class="r">Contact</tspan></text>
