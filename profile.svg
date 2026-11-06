@@ -24,7 +24,7 @@ text{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberatio
 <polyline points="14,616 14,642 40,642" fill="none" stroke="#FF003C" stroke-width="2"/>
 <polyline points="986,616 986,642 960,642" fill="none" stroke="#FF003C" stroke-width="2"/>
 <text x="40" y="46" font-size="13" font-weight="700"><tspan class="r">◤ OPTICS </tspan><tspan class="d">// </tspan><tspan class="r">SCAN MODE</tspan></text>
-<text x="960" y="46" font-size="12" text-anchor="end"><tspan class="m" id="date_data">2026.11.06</tspan></text>
+<text x="960" y="46" font-size="12" text-anchor="end"><tspan class="m" id="date_data">2026.11.07</tspan></text>
 <rect x="40" y="84" width="330" height="480" fill="#14060B" opacity=".6"/>
 
 <text x="51.4" y="102.3" font-size="6.4"><tspan class="d">                                                                                </tspan></text>
@@ -143,7 +143,7 @@ text{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberatio
 <text x="410" y="150" font-size="14"><tspan class="m">github.com/</tspan><tspan class="s">CyberMoonie</tspan></text>
 <rect x="410" y="166" width="552" height="1" fill="#5E0D19"/>
 <text x="410" y="204" font-size="14"><tspan class="m">OS </tspan><tspan class="d">.............. </tspan><tspan class="t">macOS, Windows</tspan></text>
-<text x="410" y="225" font-size="14"><tspan class="m">Uptime </tspan><tspan class="d">.......... </tspan><tspan class="t" id="age_data">22 years, 2 months, 15 days</tspan></text>
+<text x="410" y="225" font-size="14"><tspan class="m">Uptime </tspan><tspan class="d">.......... </tspan><tspan class="t" id="age_data">22 years, 2 months, 16 days</tspan></text>
 <text x="410" y="246" font-size="14"><tspan class="m">Host </tspan><tspan class="d">............ </tspan><tspan class="t">Technical University of Moldova</tspan></text>
 <text x="410" y="267" font-size="14"><tspan class="m">IDE </tspan><tspan class="d">............. </tspan><tspan class="t">VS Code</tspan></text>
 <text x="410" y="298" font-size="14"><tspan class="m">Languages </tspan><tspan class="d">....... </tspan><tspan class="t">Python, JavaScript, TypeScript, Java, C#,</tspan></text>
